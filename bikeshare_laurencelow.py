@@ -27,7 +27,7 @@ def get_filters():
         city = input("Would you like to see data from Chicago, New York City or Washington?").lower()
         #handling unexpected inputs#
         if city in CITY_DATA.keys():
-            print(' --> Your chosen city is', city.title(), '\n')
+            print('Your chosen city is', city.title(), '\n')
             break
         else:
             print('\nAttention!the city you inserted is not in the list. Please choose among chicago, New York or Washington')
