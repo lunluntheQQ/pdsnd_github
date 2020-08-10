@@ -17,5 +17,5 @@ washington.csv
 Python documentation
 Pandas documentation
 Lectures for Programming for Data Science
-https://github.com/taglitis/Bikeshare-project
+
 
