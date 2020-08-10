@@ -2,7 +2,7 @@
 10th Aug 2020
 
 ### Project Title
-Bikeshare project
+Bikeshare project (udacity)
 
 ### Description
 Extracting statistical information from data (csv) using Python 
