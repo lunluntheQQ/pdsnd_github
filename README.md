@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+10th Aug 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+Extracting statistical information from data (csv) using Python 
 
 ### Files used
-Include the files used
+bikeshare.py
+new_york_city.csv
+chicago.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Python documentation
+Pandas documentation
+Lectures for Programming for Data Science
+https://github.com/taglitis/Bikeshare-project
 
