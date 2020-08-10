@@ -204,8 +204,8 @@ def user_stats(df, city):
     # TO DO: Display earliest, most recent, and most common year of birth
     if 'Birth Year' in df.columns:
         print("\n-->>The earliest year of birth: {}".format(df['Birth Year'].min()))
-        print("-->>The recent year of birth: {}".format(df['Birth Year'].max()))
-        print("-->>The most common year of birth: {}\n".format(df['Birth Year'].mode()[0]))
+        print("The recent year of birth: {}".format(df['Birth Year'].max()))
+        print("The most common year of birth: {}\n".format(df['Birth Year'].mode()[0]))
     else:
         print('\nGender data is not available for {}\n'.format(city))
 
